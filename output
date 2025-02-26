@@ -1,0 +1,9 @@
+Data has been written to 'mergeSortTimes.csv'
+Size    time(ns)
+10      34500
+100     71900
+500     498900
+1000    390800
+5000    998100
+10000   2040000
+50000   9432500
